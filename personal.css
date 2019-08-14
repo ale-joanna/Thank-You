@@ -1,0 +1,30 @@
+header{
+  background-color:#16A085;
+  margin-top:0px;
+  height:100px;
+  display:block;
+  text-align:center;
+  margin-left:10px;
+  margin-right:10px;
+}
+#summer{
+  font-family:courier new;
+  font-size:80px;
+  margin-top:20px;
+  color:white;
+}
+#border {
+  border: 100px solid gray;
+  border-radius: 10px;
+  margin-right:200px;
+  margin-left:200px;
+}
+#pic{
+  text-align:center;
+  border-left:200px;
+}
+#paragraph{
+  text-align:center;
+  margin-left:200px;
+  margin-right:200px;
+}
